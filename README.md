@@ -4,7 +4,7 @@ Repositori ini adalah dokumentasi, skenario pengujian, dan implementasi teknis y
 
 ## Tenggat Waktu (Deadline)
 
-Batas akhir pengumpulan proyek ini adalah tanggal **6 September 2026**. Pastikan seluruh pekerjaan telah diselesaikan dan diunggah ke repositori sebelum tanggal tersebut.
+Batas akhir pengumpulan proyek ini adalah tanggal **11 September 2026**. Pastikan seluruh pekerjaan telah diselesaikan dan diunggah ke repositori sebelum tanggal tersebut.
 
 ## Mekanisme Pengumpulan Proyek
 
